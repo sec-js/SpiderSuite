@@ -2,9 +2,9 @@
     <img src="resources/logo.png" width=300/>
 </p>
 <p align="center">
-    <a href="https://github.com/3nock/SpiderSuite/releases" alt="GitHub release">
-        <img src="https://img.shields.io/github/release/3nock/SpiderSuite.svg" /></a>
-    <img src="https://img.shields.io/github/downloads/3nock/SpiderSuite/total" alt="GitHub all releases downloads count">
+    <a href="https://github.com/spidersuite/SpiderSuite/releases" alt="GitHub release">
+        <img src="https://img.shields.io/github/release/spidersuite/SpiderSuite.svg" /></a>
+    <img src="https://img.shields.io/github/downloads/spidersuite/SpiderSuite/total" alt="GitHub all releases downloads count">
     <a href="https://discord.gg/7Gw4n7M2PG" alt="Discord">
         <img src="https://img.shields.io/badge/chat-%20on%20Discord-blue.svg" /></a>
     <a href="https://twitter.com/intent/follow?screen_name=spider_suite" alt="Twitter">
