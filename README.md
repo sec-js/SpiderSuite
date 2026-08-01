@@ -2,17 +2,18 @@
     <img src="resources/logo.png" width=300/>
 </p>
 <p align="center">
-    <a href="https://github.com/spidersuite/SpiderSuite/releases" alt="GitHub release">
-        <img src="https://img.shields.io/github/release/spidersuite/SpiderSuite.svg" /></a>
-    <img src="https://img.shields.io/github/downloads/spidersuite/SpiderSuite/total" alt="GitHub all releases downloads count">
-    <a href="https://discord.gg/vUcEUXaYTu" alt="Discord">
-        <img src="https://img.shields.io/badge/chat-%20on%20Discord-blue.svg" /></a>
-    <a href="https://twitter.com/intent/follow?screen_name=spider_suite" alt="Twitter">
-        <img src="https://img.shields.io/twitter/follow/spider_suite?label=follow&style=social" /></a>
-</p>
-<p align="center">
-  •
-  <a href="https://github.com/orgs/spidersuite/projects/1">Roadmap</a> 
+    <a href="https://github.com/spidersuite/SpiderSuite/releases">
+    <img src="https://img.shields.io/github/v/release/spidersuite/SpiderSuite?style=for-the-badge&logo=github&logoColor=white&color=4CAF50" alt="GitHub release" />
+    </a>
+    <a href="https://github.com/orgs/spidersuite/projects/1">
+    <img src="https://img.shields.io/badge/Roadmap-View-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Roadmap" />
+    </a>
+    <a href="https://discord.gg/vUcEUXaYTu">
+    <img src="https://img.shields.io/badge/chat-on%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    </a>
+    <a href="https://x.com/intent/follow?screen_name=spider_suite">
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+    </a>
 </p>
 
 SpiderSuite is an advance cross-platform and multi-feature web crawler designed for security professionals. 
