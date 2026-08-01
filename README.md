@@ -19,7 +19,7 @@ SpiderSuite is an advance cross-platform and multi-feature web crawler designed 
 For more information visit SpiderSuite's [website](https://SpiderSuite.io).
 
 <p align="center">
-    <video src="resources/demo.mp4" autoplay loop muted playsinline width="100%"></video>
+    <video src="https://github.com/user-attachments/assets/d74f93c0-9c83-4349-9ad3-ca39359eecee" autoplay loop muted playsinline width="100%"></video>
 </p>
 
 # Installation and Usage
