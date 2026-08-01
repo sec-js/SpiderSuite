@@ -9,4 +9,4 @@ Contact Information for **Spider Suite**. *Feel free to contact us for any inqui
 - [Twitter](https://twitter.com/spider_suite)
 
 ## Chat
-- [Discord](https://discord.gg/7Gw4n7M2PG)
+- [Discord](https://discord.gg/vUcEUXaYTu)
