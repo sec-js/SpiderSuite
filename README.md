@@ -8,7 +8,7 @@
     <a href="https://github.com/orgs/spidersuite/projects/1">
     <img src="https://img.shields.io/badge/Roadmap-View-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Roadmap" />
     </a>
-    <a href="https://discord.gg/vUcEUXaYTu">
+    <a href="https://discord.gg/m2qAUnwy4">
     <img src="https://img.shields.io/badge/chat-on%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
     </a>
     <a href="https://x.com/intent/follow?screen_name=spider_suite">
